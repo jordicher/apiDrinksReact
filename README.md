@@ -9,6 +9,8 @@ https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-a
 
 
 ![Design preview](./img/img1.png)
+![Design preview](./img/img2.png)
+![Design preview](./img/img3.png)
 
 
 Tras descargar una copia del proyecto es necesario instalar los paquetes de los que depende.
